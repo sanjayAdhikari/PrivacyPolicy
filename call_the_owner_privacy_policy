@@ -1,0 +1,38 @@
+Backspace Innovation Privacy Policy 
+for
+Call The Owner
+
+Last Updated: September 20, 2019 04:10 PM GMT+5:45 
+
+Your privacy is important to Backspace Innovation. This privacy policy (“Privacy Policy”) applies to the Backspace Innovation Call The Owner mobile applications and explains how personal information is collected, used, disclosed, and protected by Backspace Innovation.. 
+
+Changes to This Privacy Policy
+We may change this Privacy Policy from time to time. If we make any changes to this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Backspace Innovation website or Github Repo. Those changes will go into effect on the “last updated” date shown in the revised Privacy Policy. You consent to the revised Privacy Policy by continuing to use thisServices. We encourage you to check this Privacy Policy whenever you use thisServices to understand how your personal information is used. 
+
+What Does This Privacy Policy Cover? 
+In your dealings with thisyou may provide us with Device Permission for personal access i.e SMS Permission. SMS Permission for the purposes of this Privacy Policy means used for accessing features related to the User's messaging including the sending, receiving and reading of SMS. This Privacy Policy does not apply to the practices of entities that we do not own or control, or to individuals that we do not employ or manage. 
+More generally, we think of our privacy policy as a feature and hope that you’ll agree.  
+
+
+What data do we collect?
+this helps you to send a message to the owner if mobile is lost by intruder. It’s an android platform to Call The Owner from mobile apps. In order to provide this service we access SMS Permission to send the SMS.We use send sms service to provide the this service. This is an Android service, which means that it’s running and access permission from the moment it’s first started until it’s uninstalled from your device.
+
+Android Permissions
+We request the following android permissions for the following reasons:
+android.permission.GET_ACCOUNTS. To communicate to the user for better user experience.
+android.permission.SYSTEM_ALERT_WINDOW. To access notification activity from lock screen.
+android.permission.DISABLE_KEYGUARD. to contact the owner even in lock screen.
+android.permission.WAKE_LOCK. Needed to prevent the app from sleep.
+android.permission.RECEIVE_BOOT_COMPLETED. Needed to notify the app after reboot.
+android.permission.SEND_SMS. Needed to send SMS to the emergency phone set by user.
+android.permission.CALL_PHONE. Call the emergency phone number listed by user
+android.permission.CAMERA. To get the profile picture
+android.permission.WRITE_EXTERNAL_STORAGE. To save the user profile picture in storage.
+android.permission.READ_EXTERNAL_STORAGE. To access the user profile pricture from storage.
+android.permission.INTERNET. To access internet.
+android.permission.ACCESS_NETWORK_STATE To get Network state Enforcement.
+
+If you have any questions about this Privacy Policy, you should first contact us at backspaceInnovation@gmail.com
+
+Contacting Us 
+Any questions about this Privacy Policy should be addressed to backspaceInnovation@gmail.com
